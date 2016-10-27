@@ -3,7 +3,7 @@ import java.util.Random;
 public class Shekren {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	
 		final Random random = new Random();
 		int[] array;
 		array = new int[random.nextInt(1000)];
@@ -11,7 +11,7 @@ public class Shekren {
 		    array[i] = ((int)(Math.random() * random.nextInt()));
 		    System.out.print(array[i]+" ");
 		}
-		//комнтарий для вишенки
+		
 		System.out.println("");
 		for(int i = array.length-1;i>0;i--)	{
 			for(int j = 0;j<=i;j++){
