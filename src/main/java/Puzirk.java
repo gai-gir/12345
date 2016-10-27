@@ -3,7 +3,7 @@ import java.util.Random;
 public class Puzirk {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	
 		final Random random = new Random();
 		int[] array;
 		array = new int[random.nextInt(1000)];
