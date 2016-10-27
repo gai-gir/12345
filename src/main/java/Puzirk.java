@@ -26,5 +26,5 @@ public class Puzirk {
 			}
 			System.out.println("");
 	}
-
+//добавила для cherry
 }
