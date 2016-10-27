@@ -25,6 +25,6 @@ public class Puzirk {
 			 System.out.print(array[i]+" ");
 			}
 			System.out.println("");
-	}
+	}//еще один для этого же
 //добавила для cherry
 }
